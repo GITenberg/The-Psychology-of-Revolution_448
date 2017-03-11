@@ -1,5 +1,8 @@
 _repo: The-Psychology-of-Revolution_448
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Le Bon, Gustave
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Le_Bon
 description: Translation of the author's La révolution française et la psychologie
   des révolutions
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/448#The-Psychology-of-Revolution
 gutenberg_bookshelf: Psychology
 gutenberg_issued: '1996-02-01'
 gutenberg_type: Text
