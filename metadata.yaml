@@ -1,5 +1,5 @@
 _repo: The-Psychology-of-Revolution_448
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'France -- History -- Revolution, 1789-1799 -- Causes'
 - !lcsh 'Revolutions'
 - !lcsh 'Social psychology'
+- GITenberg
 title: The Psychology of Revolution
 url: http://www.gutenberg.org/ebooks/448
